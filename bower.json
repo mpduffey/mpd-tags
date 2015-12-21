@@ -1,0 +1,22 @@
+{
+	"name": "mpd-tags",
+	"main": "mpd-tags.js",
+	"version": "0.0.0",
+	"homepage": "https://github.com/mpduffey/master",
+	"authors": [
+		"mpduffey <mpduffey@gmail.com>"
+	],
+	"dependencies": {},
+	"description": "Tags for Master App",
+	"keywords": [
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"assets/vendor",
+		"test",
+		"tests"
+	]
+}
